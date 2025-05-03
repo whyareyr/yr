@@ -26,10 +26,10 @@ export function GithubRepoCard({
   const getLanguageColor = (lang: string) => {
     const colors: Record<string, string> = {
       TypeScript: "bg-blue-500",
-      JavaScript: "bg-yellow-400",
+      NextJS: "bg-yellow-400",
       Python: "bg-green-500",
-      Go: "bg-cyan-500",
-      Rust: "bg-orange-500",
+      React: "bg-cyan-500",
+      Express: "bg-orange-500",
       Java: "bg-red-500",
     };
     return colors[lang] || "bg-gray-500";
