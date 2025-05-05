@@ -37,8 +37,8 @@ export default function Home() {
             Yoosha Raza
           </h1>
           <p className="mx-auto mb-8 max-w-2xl text-xl text-muted-foreground md:text-2xl">
-            Product & Full Stack Developer crafting exceptional digital
-            experiences
+            CSE DTU'26, Product & Full Stack Developer crafting exceptional
+            digital experiences
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link href="#projects">
