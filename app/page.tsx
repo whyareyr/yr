@@ -70,7 +70,7 @@ export default function Home() {
             </Link>
 
             <Link
-              href="https://leetcode.com/whyareyr"
+              href="https://leetcode.com/u/leningrad1234/"
               target="_blank"
               rel="noopener noreferrer"
               className="transition-transform hover:scale-110"
